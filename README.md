@@ -1,5 +1,3 @@
-
-
 # Banking System - Java Swing Project
 
 ## Overview
@@ -8,11 +6,16 @@ Welcome to the **Banking System**, an advanced Java Swing application that simul
 
 ## Key Features
 
-- **Account Creation and Management**: Effortlessly create and manage multiple bank accounts.
-- **Deposit and Withdrawal Transactions**: Perform secure deposit and withdrawal operations.
-- **Balance Inquiry**: Instantly check your account balance.
-- **Transaction History**: View detailed records of all transactions.
-- **Intuitive User Interface**: Navigate easily with our Java Swing-based GUI.
+- **🆕 Account Creation and Management**: Effortlessly create and manage multiple bank accounts.
+- **💰 Deposit and Withdrawal Transactions**: Perform secure deposit and withdrawal operations.
+- **🔍 Balance Inquiry**: Instantly check your account balance.
+- **📜 Transaction History**: View detailed records of all transactions.
+- **🖥️ Intuitive User Interface**: Navigate easily with our Java Swing-based GUI.
+
+## Center Banner
+
+![Banking System - Center Banner](https://example.com/center-banner.gif)
+*Engage with our Banking System through an interactive experience*
 
 ## Screenshots
 
@@ -24,8 +27,8 @@ Welcome to the **Banking System**, an advanced Java Swing application that simul
 
 ## Technologies Used
 
-- **Java Programming Language**: The core language for the application's functionality.
-- **Java Swing**: The framework used to build the graphical user interface.
+- **☕ Java Programming Language**: The core language for the application's functionality.
+- **🖼️ Java Swing**: The framework used to build the graphical user interface.
 
 ## Installation Guide
 
@@ -45,30 +48,30 @@ Follow these simple steps to install and run the Banking System application on y
 
 ## Usage Instructions
 
-1. **Launch the Application**: Execute the `Main` class to start the application.
-2. **Perform Banking Operations**: Use the intuitive interface to manage accounts, make deposits, withdraw funds, and check balances.
+1. **🚀 Launch the Application**: Execute the `Main` class to start the application.
+2. **💻 Perform Banking Operations**: Use the intuitive interface to manage accounts, make deposits, withdraw funds, and check balances.
 
 ## Contributing to the Project
 
 We welcome and appreciate contributions to the Banking System! To contribute, follow these steps:
 
-1. **Fork the Repository**:
+1. **🍴 Fork the Repository**:
    ```bash
-   git fork https://github.com/your-username/banking-system.git
+   git fork https://github.com/devarshiadi/BankSystemManagement.git
    ```
-2. **Create a New Branch**:
+2. **🌿 Create a New Branch**:
    ```bash
    git checkout -b feature/new-feature
    ```
-3. **Commit Your Changes**:
+3. **💾 Commit Your Changes**:
    ```bash
    git commit -m 'Add new feature'
    ```
-4. **Push to the Branch**:
+4. **🔼 Push to the Branch**:
    ```bash
    git push origin feature/new-feature
    ```
-5. **Submit a Pull Request**: Open a pull request in the original repository.
+5. **🔄 Submit a Pull Request**: Open a pull request in the original repository.
 
 ## License
 
@@ -94,19 +97,19 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ## Frequently Asked Questions (FAQs)
 
-**Q1: What is the Banking System project?**
+**❓ Q1: What is the Banking System project?**
 
-A1: The Banking System is a Java Swing application that simulates basic banking operations, providing features such as account management, transactions, balance inquiry, and transaction history.
+**🅰️ A1**: The Banking System is a Java Swing application that simulates basic banking operations, providing features such as account management, transactions, balance inquiry, and transaction history.
 
-**Q2: How do I install the Banking System application?**
+**❓ Q2: How do I install the Banking System application?**
 
-A2: Clone the repository using `git clone https://github.com/your-username/banking-system.git`, navigate to the project directory, and run the commands `javac Main.java` and `java Main`.
+**🅰️ A2**: Clone the repository using `git clone https://github.com/your-username/banking-system.git`, navigate to the project directory, and run the commands `javac Main.java` and `java Main`.
 
-**Q3: Can I contribute to the Banking System project?**
+**❓ Q3: Can I contribute to the Banking System project?**
 
-A3: Yes, contributions are welcome! Fork the repository, create a new branch, commit your changes, push to the branch, and submit a pull request.
+**🅰️ A3**: Yes, contributions are welcome! Fork the repository, create a new branch, commit your changes, push to the branch, and submit a pull request.
 
-**Q4: What technologies are used in the Banking System project?**
+**❓ Q4: What technologies are used in the Banking System project?**
 
-A4: The project uses Java for the application logic and Java Swing for the graphical user interface.
+**🅰️ A4**: The project uses Java for the application logic and Java Swing for the graphical user interface.
 
