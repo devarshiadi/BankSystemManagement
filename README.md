@@ -14,7 +14,7 @@ Welcome to the **Banking System**, an advanced Java Swing application that simul
 
 ## Center Banner
 
-![Banking System - Center Banner](https://example.com/center-banner.gif)
+![Banking System - Center Banner](https://i.pinimg.com/originals/1c/8a/d0/1c8ad03c252782b85920f6a528215cbc.gif)
 *Engage with our Banking System through an interactive experience*
 
 ## Screenshots
