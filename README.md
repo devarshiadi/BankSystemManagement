@@ -12,9 +12,10 @@ Welcome to the **Banking System**, an advanced Java Swing application that simul
 - **📜 Transaction History**: View detailed records of all transactions.
 - **🖥️ Intuitive User Interface**: Navigate easily with our Java Swing-based GUI.
 
-## Center Banner
+
 
 ![Banking System - Center Banner](https://i.pinimg.com/originals/1c/8a/d0/1c8ad03c252782b85920f6a528215cbc.gif)
+##
 *Engage with our Banking System through an interactive experience*
 
 ## Screenshots
